@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Product Excel Importer
- * Description: Import products with categories & subcategories from Excel sheet into custom post type (product_cpt).
+ * Plugin Name: Product Postype Excel Importer
+ * Description: Import products with categories & subcategories from Excel sheet into custom post type (product_cpt). Created By Aquarious Technology PVT LTD
  * Version: 1.1
- * Author: Your Name
+ * Author: Biplab Chakraborty
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
